@@ -16,7 +16,7 @@
                         <img src="https://randomuser.me/api/portraits/men/94.jpg" class="w-32 h-32 bg-gray-300 rounded-full mb-4 shrink-0">
 
                         </img>
-                        <h1 class="text-xl font-bold">Salis</h1>
+                        <h1 class="text-xl font-bold">Salis2</h1>
                         <p class="text-gray-700">Software Developer</p>
                         <div class="mt-6 flex flex-wrap gap-4 justify-center">
                             <a href="#" class="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded">Contact</a>

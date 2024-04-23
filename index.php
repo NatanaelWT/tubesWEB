@@ -132,19 +132,19 @@
         <div class="slideshow-container">
             <div class="mySlides fade">
                 <div class="numbertext">1 / 3</div>
-                <img src="img/Natan.jpg" style="width:100%">
+                <img src="img/natan.jpg" style="width:100%">
                 <div class="text">Caption Text</div>
             </div>
 
             <div class="mySlides fade">
                 <div class="numbertext">2 / 3</div>
-                <img src="img/Natan.jpg" style="width:100%">
+                <img src="img/tsalits.png" style="width:100%">
                 <div class="text">Caption Two</div>
             </div>
 
             <div class="mySlides fade">
                 <div class="numbertext">3 / 3</div>
-                <img src="img/Natan.jpg" style="width:100%">
+                <img src="img/3.jpg" style="width:100%">
                 <div class="text">Caption Three</div>
             </div>
         </div>
@@ -154,28 +154,28 @@
         <div class="members">
             <a href="yulan.php">
                 <div class="team-member">
-                    <img class="profileImg" src="img/Natan.jpg">
+                    <img class="profileImg" src="img/natan.jpg">
                     <h4>Yulan</h4>
                     <p>1203220022</p>
                 </div>
             </a>
             <a href="yuandytha.php">
                 <div class="team-member">
-                    <img class="profileImg" src="img/Natan.jpg">
+                    <img class="profileImg" src="img/natan.jpg">
                     <h4>Yuandytha</h4>
                     <p>1203220120</p>
                 </div>
             </a>
             <a href="tsalis.php">
                 <div class="team-member">
-                    <img class="profileImg" src="img/Natan.jpg">
+                    <img class="profileImg" src="img/tsalits.png">
                     <h4>Tsalits</h4>
                     <p>1203220135</p>
                 </div>
             </a>
             <a href="natanael.php">
                 <div class="team-member">
-                    <img class="profileImg" src="img/Natan.jpg">
+                    <img class="profileImg" src="img/natan.jpg">
                     <h4>Natanael</h4>
                     <p>1203220140</p>
                 </div>

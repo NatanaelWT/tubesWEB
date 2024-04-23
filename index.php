@@ -36,28 +36,28 @@
         <div class="members">
             <a href="yulan.php">
                 <div class="team-member">
-                    <img src="img/Natan.jpg">
+                    <img class="profileImg" src="img/Natan.jpg">
                     <h4>Yulan</h4>
                     <p>1203220022</p>
                 </div>
             </a>
             <a href="Yuandytha.php">
                 <div class="team-member">
-                    <img src="img/Natan.jpg">
+                    <img class="profileImg" src="img/Natan.jpg">
                     <h4>Yuandytha</h4>
                     <p>1203220120</p>
                 </div>
             </a>
             <a href="tsalis.php">
                 <div class="team-member">
-                    <img src="img/Natan.jpg">
+                    <img class="profileImg" src="img/Natan.jpg">
                     <h4>Tsalits</h4>
                     <p>1203220135</p>
                 </div>
             </a>
             <a href="natanael.php">
                 <div class="team-member">
-                    <img src="img/Natan.jpg">
+                    <img class="profileImg" src="img/Natan.jpg">
                     <h4>Natanael</h4>
                     <p>1203220140</p>
                 </div>

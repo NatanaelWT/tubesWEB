@@ -4,30 +4,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Natanael Wijaya Tiono 2</title>
+    <title>Natanael Wijaya Tiono</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <!-- External CSS -->
+    <link rel="stylesheet" href="">
+    <!-- Internal CSS -->
+    <style>
+        body {
+            min-width: 400px;
+        }
+    </style>
 </head>
 
 <body>
-    <header class="mt-3 mx-6">
+    <!-- Inline CSS -->
+    <header style="margin-top: 0.75rem;" class="mx-6">
         <div class="bg-white text-black py-4 border rounded-3xl border-slate-200 shadow-md">
             <div class="grid grid-cols-4 text-center font-semibold text-lg">
-                <a href="#">
+                <a href="#profile">
                     <div class="hover:text-blue-800">
-                        Profil
+                        Profile
                     </div>
                 </a>
-                <a href="#">
+                <a href="#aboutMe">
                     <div class="hover:text-blue-800">
                         About Me
                     </div>
                 </a>
-                <a href="#">
+                <a href="#experience">
                     <div class="hover:text-blue-800">
                         Experience
                     </div>
                 </a>
-                <a href="#">
+                <a href="#contact">
                     <div class="hover:text-blue-800">
                         Contact
                     </div>
@@ -37,66 +46,136 @@
     </header>
 
     <section>
-        <div class="grid grid-cols-6 m-4 border rounded-3xl border-slate-200 shadow-md gap-4 p-10">
-            <div class="col-span-6 text-3xl font-bold text-center mb-8">
+        <div id="profile" class="grid grid-cols-6 m-4 border rounded-3xl border-slate-200 shadow-md gap-4 p-4">
+            <div class="col-span-6 text-3xl font-bold text-center">
                 <h1>PROFIL</h1>
             </div>
-            <div class="col-span-2">
+            <div class="col-span-6 md:col-span-2">
                 <img src="img/Natan.jpg" class="rounded-full w-96 h-w-96 mx-auto" alt="">
 
             </div>
-            <div class="col-span-3">
-                <div class="grid grid-cols-6 text-left text-2xl font-bold">
-                    <div>
+            <div class="col-span-6 md:col-span-4 my-auto">
+                <div class="grid grid-cols-6 text-left text-md font-bold sm:text-2xl md:text-lg lg:text-2xl">
+                    <div class="col-span-2">
                         <h2>Nama</h2>
                         <h2>NIM</h2>
+                        <h2>TTL</h2>
                         <h2>Kampus</h2>
+                        <h2>Jurusan</h2>
+                        <h2>Alamat</h2>
                     </div>
-                    <div class="col-span-5">
+                    <div class="col-span-4">
                         <h2>: Natanael Wijaya Tiono</h2>
                         <h2>: 1203220140</h2>
+                        <h2>: Banjarmasin, 25 January 2024</h2>
                         <h2>: Telkom University Surabaya</h2>
+                        <h2>: Informatika</h2>
+                        <h2>: Jl. Karah No 29, Karah, Kec. Jambangan, Surabaya, Jawa Timur 60232</h2>
                     </div>
                 </div>
             </div>
-            <div class="">
+            <div class="hidden">
 
             </div>
         </div>
-        <div class="grid grid-cols-3 m-4 border rounded-3xl border-slate-200 shadow-md gap-4 p-10">
-            <div class="col-span-3 text-3xl font-bold text-center mb-8">
+        <div id="aboutMe" class="grid grid-cols-6 m-4 border rounded-3xlborder-slate-200 shadow-md gap-4 p-4">
+            <div class="col-span-6 text-3xl font-bold text-center">
                 <h1>ABOUT ME</h1>
             </div>
-            <div class="col-span-3">
-                <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vitae ipsa mollitia iusto fugiat, et corrupti cumque excepturi sunt, ratione assumenda illum iste quam! Itaque dolor illo voluptatem labore deleniti enim inventore nesciunt eius odit, et tempore, eveniet distinctio impedit atque? Ullam voluptatibus commodi corporis illo, iste in quo? Dolor illum distinctio earum aut laborum harum? Impedit nostrum, similique iste illo optio accusantium exercitationem reiciendis pariatur doloremque molestiae voluptatibus iure obcaecati quod. Harum, eligendi placeat. Doloribus, voluptatum at! Expedita praesentium ratione atque suscipit inventore neque distinctio voluptates totam natus ullam! Libero dolore accusamus at quos, omnis repellat id consequatur delectus repellendus magnam animi, perspiciatis recusandae, earum ratione ullam aspernatur blanditiis dolorem vero deleniti illum? Quidem, ipsum voluptatum? Omnis amet repudiandae facilis accusantium aspernatur sequi excepturi vero nulla, impedit perferendis, porro nihil harum ipsa ipsum fugiat blanditiis architecto soluta perspiciatis, error quasi delectus eos! Inventore iste vero saepe molestias nulla ipsam voluptates facilis culpa perspiciatis rem, sapiente recusandae. Cupiditate sunt, minima dolore dolorum mollitia iusto voluptas ducimus explicabo, assumenda dolorem perspiciatis ad iure veniam eum nam quaerat, adipisci ratione facilis! Quae consequatur quos incidunt iste voluptatibus assumenda totam unde nisi ad vitae illo, voluptas maxime quaerat magnam consequuntur cum architecto ratione quod officiis quasi. Laboriosam, nostrum nihil! Laudantium, cumque ducimus animi mollitia rerum deserunt adipisci, alias accusamus earum nesciunt amet. Et, rem blanditiis architecto dolor reprehenderit hic libero placeat repudiandae! Eum asperiores nemo necessitatibus quisquam suscipit error quod tempora expedita corrupti! Magni fugiat quos, neque eveniet in tempora rem, nesciunt debitis, voluptatem maxime voluptas non cupiditate tenetur. Ipsum laboriosam rerum nesciunt earum delectus et aut consequuntur itaque ut unde, inventore expedita eos enim, dolores iste? Aliquid dolore aperiam unde laboriosam excepturi laborum maxime quis eius in, perspiciatis fugiat non consequatur inventore eveniet beatae, dicta quos aspernatur est quam dolorem porro error.</h1>
+            <div class="lg:hidden"></div>
+            <div class="col-span-6 md:col-span-4 lg:col-span-6 border-b-2 pb-8">
+                <h1>
+                    Saya adalah seorang software developer yang berdedikasi dan bersemangat dalam menciptakan solusi teknologi yang inovatif. Sebagai seorang yang selalu haus akan pengetahuan, saya senantiasa berusaha untuk terus memperdalam pemahamannya tentang berbagai teknologi terkini dan praktik pengembangan perangkat lunak terbaik. Keterampilan teknis yang kuat meliputi penguasaan bahasa pemrograman seperti HTML, CSS, dan JavaScript, serta keahlian dalam menggunakan berbagai framework dan teknologi terkait, termasuk Bootstrap, Tailwind, dan Laravel.
+                    Selain itu, saya juga memiliki kemampuan komunikasi yang baik dan keterampilan kolaborasi yang solid, memungkinkannya untuk bekerja sama dengan tim lintas disiplin dan berkontribusi dalam mencapai tujuan bersama.
+                </h1>
             </div>
+            <div class="lg:hidden"></div>
+            <div class="col-span-6 text-3xl font-bold text-center mt-4">
+                <h1>EDUCATION</h1>
+            </div>
+            <div class="lg:hidden"></div>
+            <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
+                <h1 class="text-xl font-bold text-center">Telkom University Surabaya</h1>
+                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
+            </div>
+            <div class="lg:hidden"></div>
+            <div class="lg:hidden"></div>
+            <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
+                <h1 class="text-xl font-bold text-center">SMKN 1 Palangkaraya</h1>
+                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
+            </div>
+            <div class="lg:hidden"></div>
+            <div class="lg:hidden"></div>
+            <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
+                <h1 class="text-xl font-bold text-center">SMPN 9 Palangkaraya</h1>
+                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
+            </div>
+            <div class="lg:hidden"></div>
         </div>
-        <div class="grid grid-cols-3 m-4 border rounded-3xl border-slate-200 shadow-md gap-4 p-10">
-            <div class="col-span-3 text-3xl font-bold text-center mb-8">
+        <div id="experience" class="grid grid-cols-6 m-4 border rounded-3xl border-slate-200 shadow-md gap-4 p-4">
+            <div class="col-span-6 text-3xl font-bold text-center">
                 <h1>EXPERIENCE</h1>
             </div>
-            <div class="">
+            <div class="lg:hidden"></div>
+            <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
+                <img src="img/Natan.jpg" alt="">
+                <h1 class="text-xl font-bold text-center">Experience 1</h1>
                 <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
             </div>
-            <div class="">
+            <div class="lg:hidden"></div>
+            <div class="lg:hidden"></div>
+            <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
+                <img src="img/Natan.jpg" alt="">
+                <h1 class="text-xl font-bold text-center">Experience 2</h1>
                 <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
             </div>
-            <div class="">
+            <div class="lg:hidden"></div>
+            <div class="lg:hidden"></div>
+            <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
+                <img src="img/Natan.jpg" alt="">
+                <h1 class="text-xl font-bold text-center">Experience 3</h1>
                 <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
             </div>
+            <div class="lg:hidden"></div>
         </div>
-        <div class="grid grid-cols-3 m-4 border rounded-3xl border-slate-200 shadow-md gap-4 p-10">
-            <div class="col-span-3 text-3xl font-bold text-center mb-8">
+        <div id="contact" class="grid grid-cols-3 m-4 border rounded-3xl border-slate-200 shadow-md gap-4 p-4">
+            <div class="col-span-3 text-3xl font-bold text-center">
                 <h1>CONTACT</h1>
             </div>
-            <div class="">
-                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
-            </div>
-            <div class="">
-                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
-            </div>
-            <div class="">
-                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
+            <div class="col-span-3 flex items-center justify-center p-12">
+                <div class="mx-auto w-full max-w-[550px]">
+                    <form action="" method="POST">
+                        <div class="mb-5">
+                            <label for="name" class="mb-3 block text-base font-medium text-[#07074D]">
+                                Full Name
+                            </label>
+                            <input type="text" name="name" id="name" placeholder="Full Name" class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md" />
+                        </div>
+                        <div class="mb-5">
+                            <label for="email" class="mb-3 block text-base font-medium text-[#07074D]">
+                                Email Address
+                            </label>
+                            <input type="email" name="email" id="email" placeholder="example@domain.com" class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md" />
+                        </div>
+                        <div class="mb-5">
+                            <label for="subject" class="mb-3 block text-base font-medium text-[#07074D]">
+                                Subject
+                            </label>
+                            <input type="text" name="subject" id="subject" placeholder="Enter your subject" class="w-full rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md" />
+                        </div>
+                        <div class="mb-5">
+                            <label for="message" class="mb-3 block text-base font-medium text-[#07074D]">
+                                Message
+                            </label>
+                            <textarea rows="4" name="message" id="message" placeholder="Type your message" class="w-full resize-none rounded-md border border-[#e0e0e0] bg-white py-3 px-6 text-base font-medium text-[#6B7280] outline-none focus:border-[#6A64F1] focus:shadow-md"></textarea>
+                        </div>
+                        <div>
+                            <button class="hover:shadow-form rounded-md bg-[#6A64F1] py-3 px-8 text-base font-semibold text-white outline-none">
+                                Submit
+                            </button>
+                        </div>
+                    </form>
+                </div>
             </div>
         </div>
     </section>

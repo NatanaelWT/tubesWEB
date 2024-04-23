@@ -45,7 +45,7 @@
         </div>
     </header>
 
-    <section>
+    <section>    
         <div id="profile" class="grid grid-cols-6 m-4 border rounded-3xl border-slate-200 shadow-md gap-4 p-4">
             <div class="col-span-6 text-3xl font-bold text-center">
                 <h1>PROFIL</h1>

@@ -11,12 +11,32 @@
 
 <body>
     <div class="main-container">
+        <div class="slideshow-container">
+            <div class="mySlides fade">
+                <div class="numbertext">1 / 3</div>
+                <img src="img/Natan.jpg" style="width:100%">
+                <div class="text">Caption Text</div>
+            </div>
+
+            <div class="mySlides fade">
+                <div class="numbertext">2 / 3</div>
+                <img src="img/Natan.jpg" style="width:100%">
+                <div class="text">Caption Two</div>
+            </div>
+
+            <div class="mySlides fade">
+                <div class="numbertext">3 / 3</div>
+                <img src="img/Natan.jpg" style="width:100%">
+                <div class="text">Caption Three</div>
+            </div>
+        </div>
+        <br>
         <h2>Our Team</h2>
         <hr>
         <div class="members">
             <a href="yulan.php">
                 <div class="team-member">
-                    <img src="img/natan.jpg">
+                    <img src="img/Natan.jpg">
                     <h4>Yulan</h4>
                     <p>1203220022</p>
                 </div>
@@ -44,6 +64,7 @@
             </a>
         </div>
     </div>
+    <script src="script.js"></script>
 </body>
 
 </html>

@@ -79,8 +79,9 @@ p {
   display: none;
 }
 
-.mySlides img{
+.mySlidesImg{
     height: 300px;
+    border-radius: 0;
 }
 
 .text {

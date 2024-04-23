@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Natanael Wijaya Tiono</title>
+    <link rel="icon" href="img/natan.jpg">
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- External CSS -->
     <link rel="stylesheet" href="">
@@ -51,7 +52,7 @@
                 <h1>PROFIL</h1>
             </div>
             <div class="col-span-6 md:col-span-2">
-                <img src="img/Natan.jpg" class="rounded-full w-96 h-w-96 mx-auto" alt="">
+                <img src="img/natan.jpg" class="rounded-full w-96 h-w-96 mx-auto" alt="">
 
             </div>
             <div class="col-span-6 md:col-span-4 my-auto">

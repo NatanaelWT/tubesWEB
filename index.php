@@ -41,7 +41,7 @@
                     <p>1203220022</p>
                 </div>
             </a>
-            <a href="Yuandytha.php">
+            <a href="yuandytha.php">
                 <div class="team-member">
                     <img class="profileImg" src="img/Natan.jpg">
                     <h4>Yuandytha</h4>

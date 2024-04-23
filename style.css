@@ -75,13 +75,12 @@ p {
   margin: auto;
 }
 
-.mySlides {
-  display: none;
-}
-
 .mySlidesImg{
     height: 300px;
-    border-radius: 0;
+}
+
+.mySlides {
+  display: none;
 }
 
 .text {

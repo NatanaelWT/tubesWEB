@@ -14,19 +14,19 @@
         <div class="slideshow-container">
             <div class="mySlides fade">
                 <div class="numbertext">1 / 3</div>
-                <img class="mySlidesImg" src="img/Natan.jpg" style="width:100%">
+                <img class="mySlidesImg" src="img/Natan.jpg" style="width:100%; border-radius:0px;">
                 <div class="text">Caption Text</div>
             </div>
 
             <div class="mySlides fade">
                 <div class="numbertext">2 / 3</div>
-                <img class="mySlidesImg" src="img/Natan.jpg" style="width:100%">
+                <img class="mySlidesImg" src="img/Natan.jpg" style="width:100%; border-radius:0px;">
                 <div class="text">Caption Two</div>
             </div>
 
             <div class="mySlides fade">
                 <div class="numbertext">3 / 3</div>
-                <img class="mySlidesImg" style="border-radius: 0;" src="img/Natan.jpg" style="width:100%">
+                <img class="mySlidesImg" src="img/Natan.jpg" style="width:100%; border-radius:0px;">
                 <div class="text">Caption Three</div>
             </div>
         </div>

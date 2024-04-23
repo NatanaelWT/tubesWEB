@@ -26,7 +26,7 @@
     <section class="home" id="home">
         <div class="home-content">
             <h1>Hi, i'm <span>Tsalits</span></h1>
-            <h3>I'm a <span>Student</span></h3>
+            <h3>I'm a <span>Student of</span></h3>
             <p>Saya salis, saya adalah mahasiswa aktif semester 4 jurusan Informatika di Telkom University Surabaya. Saya gemar mempelajari hal baru dan memiliki kemampuan untuk bekerja secara mandiri maupun sebagai bagian dari tim, saya bertanggung jawab serta mampu berkomunikais secara efektif.</p>
 
             <div class="social-icons">

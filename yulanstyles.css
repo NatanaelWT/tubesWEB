@@ -1,0 +1,126 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c792b1; /* Putih */
+    color: #333333; /* Warna teks */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header img {
+    width: 200px; /* Ubah ukuran sesuai kebutuhan */
+    height: 200px; /* Ubah ukuran sesuai kebutuhan */
+    border-radius: 50%; /* Membuat foto menjadi bulat */
+    overflow: hidden; /* Memastikan foto tidak keluar dari lingkaran */
+}
+
+
+.header h1 {
+    color: #333333; /* Warna teks */
+}
+
+.footer {
+    background-color: #ffcccc; /* Pink soft */
+    color: #333333; /* Warna teks */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer a {
+    color: #333333; /* Warna teks */
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer a:hover {
+    color: #ff6666; /* Warna teks saat dihover */
+}
+
+.ucapanselamatdatang {
+    background-color: #ffcccc; /* Pink soft */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.content {
+    background-color: #ffffff; /* Putih */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.katapengantar {
+    background-color: #ffffff; /* Putih */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.data-section {
+    background-color: #ffffff; /* Putih */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.video-container {
+    background-color: #ffffff; /* Putih */
+    padding: 100;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.1);
+}
+
+.hubungi-saya {
+    background-color: #ffffff; /* Putih */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.education-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.education-table th, .education-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.education-table th {
+    background-color: #ffcccc; /* Pink soft */
+}
+
+#scrollToTopBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #ffcccc; /* Pink soft */
+    color: #333333; /* Warna teks */
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#scrollToTopBtn:hover {
+    background-color: #ff6666; /* Warna hover */
+}

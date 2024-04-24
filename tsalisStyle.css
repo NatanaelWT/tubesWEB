@@ -9,13 +9,6 @@
     font-family: "Poppins", sans-serif;
 }
 
-/* :root {
-    --bg-color : #1c1c2b;
-    --second-color : rgb(38, 40, 61);
-    --white-color : white;
-    --main-color : #e36554;
-} */
-
 :root {
     --bg-color : #ffffff;
     --second-color : rgb(210, 210, 210);
@@ -138,11 +131,6 @@ span {
     box-shadow: 0 0 15px var(--main-color);
     cursor: pointer;
     transition: 0.4s ease-in-out;
-}
-
-.home-img img:hover {
-    box-shadow: 0 0 25px var(--main-color),
-                0 0 50px var(--main-color);
 }
 
 .home-content p {
@@ -332,7 +320,7 @@ span {
 
 .services h2 {
     margin-bottom: 5rem;
-    color: white;
+    color: black;
 }
 
 .services-container {
@@ -397,7 +385,7 @@ span {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 3rem;
+    gap: 1rem;
     margin:  5rem auto;
     text-align: center;
 }
@@ -430,7 +418,7 @@ span {
     position: relative;
     bottom: 0;
     width: 100%;
-    padding: 40px 0;
+    padding: 20px 0;
     background-color: var(--bg-color);
 }
 
@@ -508,9 +496,9 @@ span {
     }
     .timeline-item:nth-child(odd){
         padding-right: 0;
+        padding-left: 37px;
         text-align: left;
-    }
-    .timeline-item:nth-child(odd),
+    } 
     .timeline-item:nth-child(even){
         padding-left: 37px;
     }
@@ -519,6 +507,14 @@ span {
     }
     .services{
         padding-bottom: 7rem;
+    }
+    .service-box {
+        background-color: var(--main-color);
+        height: 210px;
+        border-radius: 3rem;
+        border: 5px solid transparent;
+        cursor: pointer;
+        transition: 0.4s ease-in-out;
     }
     .contact form{
         flex-direction: column;
@@ -578,4 +574,15 @@ span {
     .services-container{
         grid-template-columns: repeat(1.1fr);
     }
+}
+
+@media screen and (max-width:550px){
+    .service-box {
+        height: 380px;
+    }
+    
+    .footer .social a {
+        margin: 3rem 0.5rem 3rem 0;
+    }
+    
 }

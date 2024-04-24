@@ -11,15 +11,16 @@
     <footer class="footer">
         <p>Yulan Tamariska Lepur</p>
         <div class="footer-links">
-            <a href="#about-me">About Me</a> 
+            <a href="#portofolio">Portofolio</a>
             <a href="#data-diri">Data Diri</a>
+            <a href="#about-me">About Me</a> 
             <a href="#pendidikan">Pendidikan</a>
             <a href="#video">Video Favorite</a>
             <a href="#hubungisaya">Hubungi Saya</a>
         </div>
         </footer>
         <div class="container">
-        <div class="header">
+        <div class="header" id=portofolio>
             <h1>Portofolio Yulan</h1>
             <img src="Foto.jpg" alt="Foto Saya">            
         <div class="ucapanselamatdatang">
@@ -39,10 +40,10 @@
         <div class="katapengantar" id="about-me">
             <h2>About Me</h2>
             <p>Hai perkenalkan saya Yulan Tamariska Lepur, nama panggilan saya Yulan. Saya seorang mahasiswa aktif di Telkom University Surabaya. 
-                Asal saya dari Halmahera Utara kota Tobelo. Saya memiliki mimpih yang besar untuk menjadi seorang wanita karir, mandiri dan sukses.
-                Dan di kota Surabaya, kota yang dijuluki kota pahlawan saya memulai mimpi saya dengan menempuh pendidikan saya di jenjang perkuliahan dengan jurusan S1 Informatika. 
-                Saya sangat berharap di kampus ini saya dapat meraih mimpi saya di kampus impian saya ini. Di kampus Telkom University Surabaya ini saya sangat belajar banyak hal baik juga pengalaman-pengalaman baru dari pertemanan, mencoba 
-                hal yang diluar pengetahuan saya. Saya suka untuk belajar hal baru karena dari apa yang saya buat dapat membantu untuk menambah wawasan dan pengetahun saya. Harapan saya kedepannya saya bisa menyelesaikan jenjang perkuliahan saya dengan nilai yang sangat baik dan lulus dengan tepat waktu.
+            Asal saya dari Halmahera Utara kota Tobelo. Saya memiliki mimpih yang besar untuk menjadi seorang wanita karir, mandiri dan sukses.
+            Dan di kota Surabaya, kota yang dijuluki kota pahlawan saya memulai mimpi saya dengan menempuh pendidikan saya di jenjang perkuliahan dengan jurusan S1 Informatika. 
+            Saya sangat berharap di kampus ini saya dapat meraih mimpi saya di kampus impian saya ini. Di kampus Telkom University Surabaya ini saya sangat belajar banyak hal baik juga pengalaman-pengalaman baru dari pertemanan, mencoba 
+            hal yang diluar pengetahuan saya. Saya suka untuk belajar hal baru karena dari apa yang saya buat dapat membantu untuk menambah wawasan dan pengetahun saya.
             </p>
         </div>
         <div class="data-section" id="pendidikan">
@@ -76,8 +77,8 @@
             </table>
         </div>
         <div class="video-container" id="video">
-            <h2>Video Favorite</h2>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/QSWYyoF79oE?autoplay=1" frameborder="0" allowfullscreen></iframe>
+            <h2>Video Favorit</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=MPqft_YO3TA" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="hubungi-saya" id="hubungisaya">
             <h2>Hubungi Saya</h2>

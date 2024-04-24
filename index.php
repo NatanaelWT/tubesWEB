@@ -154,14 +154,14 @@
         <div class="members">
             <a href="yulan.php">
                 <div class="team-member">
-                    <img class="profileImg" src="img/natan.jpg">
+                    <img class="profileImg" src="img/yulann.jpg">
                     <h4>Yulan</h4>
                     <p>1203220022</p>
                 </div>
             </a>
             <a href="yuandytha.php">
                 <div class="team-member">
-                    <img class="profileImg" src="img/natan.jpg">
+                    <img class="profileImg" src="img/yuan.png">
                     <h4>Yuandytha</h4>
                     <p>1203220120</p>
                 </div>

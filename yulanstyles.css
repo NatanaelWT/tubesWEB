@@ -1,1 +1,200 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c994b5; 
+    color: #333333;
+    margin-bottom: 10px;
+    /* margin-top: 10px; */
+}
 
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0px;
+    border-radius: 5px; 
+}
+
+.header img {
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.header {
+    text-align: center;
+    text-decoration: solid;
+    margin-bottom: 5px;
+    padding: 5px 0px;
+    margin-top: 40px;
+    border-radius: 5px; 
+}
+
+.header h1 {
+    color: #333333; 
+    text-align: center;
+}
+
+.footer {
+    background-color: #ffcccc; 
+    color: #333333; 
+    display: flex;
+    justify-content: space-between; 
+    align-items: flex-start; 
+    padding: 10px;
+    position: fixed;
+    top: 0px;
+    width: 97%;
+    border-radius: 5px; 
+}
+
+.footer p {
+    margin: 0; 
+}
+
+.footer-links {
+    display: flex;
+    gap: 10px;
+}
+
+.footer a {
+    color: #333333;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 2px solid #b65ca2; 
+    border-radius: 5px; 
+}
+
+.footer a:hover {
+    background-color: #b65ca2; /* Warna latar belakang saat dihover */
+    color: #ffffff; /* Warna teks saat dihover */
+    border-radius: 5px; 
+}
+
+
+.ucapanselamatdatang {
+    background-color: #ffcccc; /* Pink soft */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.content {
+    background-color: #ffffff; /* Putih */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.katapengantar {
+    background-color: #ffffff; /* Putih */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.katapengantar h2 {
+    margin-bottom: 5px;
+}
+
+.katapengantar p {
+    margin-bottom: 5px;
+    line-height: 1.5;
+    box-shadow: #c994b5;
+}
+
+
+.data-section {
+    background-color: #ffffff; /* Putih */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.video-container {
+    background-color: #ffffff; /* Putih */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.hubungi-saya {
+    background: linear-gradient(to bottom, #ffffff, #f5f5f5); /* Gradient dari putih ke abu-abu muda */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+
+.hubungi-saya form label {
+    display: block;
+    margin-bottom: 8px;
+
+}
+
+.hubungi-saya form input[type="text"],
+.hubungi-saya form input[type="email"],
+.hubungi-saya form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.hubungi-saya form input[type="submit"] {
+    background-color: #ffcccc; /* Pink soft */
+    color: #b65ca2;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    text-align: bolt;
+}
+
+.hubungi-saya form input[type="submit"]:hover {
+    background-color: #ff6666; /* Warna hover */
+}
+
+
+.education-table {
+    width: 100%;
+
+}
+
+.education-table th, .education-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+
+.education-table th {
+    background-color: #ffcccc; /* Pink soft */
+}
+
+#scrollToTopBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #ffcccc; /* Pink soft */
+    color: #333333; /* Warna teks */
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+#scrollToTopBtn:hover {
+    background-color: #ff6666; /* Warna hover */
+}

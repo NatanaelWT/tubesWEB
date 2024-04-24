@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio Website</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="tsalisStyle.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
 
@@ -43,7 +43,7 @@
         </div>
 
         <div class="home-img">
-            <img src="me1.png" alt="">
+            <img src="img/tsalits.png" alt="">
         </div>
     </section>
     <section class="education" id="education">
@@ -86,7 +86,7 @@
     </section>
 
     <section class="services" id="services">
-        <h2 class="heading">Ability</h2>
+        <h2 class="heading" style="color:black;">Ability</h2>
 
         <div class="services-container">
             <div class="service-box">

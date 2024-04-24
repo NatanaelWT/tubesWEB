@@ -131,21 +131,27 @@
     <div class="main-container">
         <div class="slideshow-container">
             <div class="mySlides fade">
-                <div class="numbertext">1 / 3</div>
+                <div class="numbertext">1 / 4</div>
                 <img src="img/natan.jpg" style="width:100%">
-                <div class="text">Caption Text</div>
+                <div class="text">Natanael</div>
             </div>
 
             <div class="mySlides fade">
-                <div class="numbertext">2 / 3</div>
+                <div class="numbertext">2 / 4</div>
                 <img src="img/tsalits.png" style="width:100%">
-                <div class="text">Caption Two</div>
+                <div class="text">Tsalits</div>
             </div>
 
             <div class="mySlides fade">
-                <div class="numbertext">3 / 3</div>
-                <img src="img/3.jpg" style="width:100%">
-                <div class="text">Caption Three</div>
+                <div class="numbertext">3 / 4</div>
+                <img src="img/yuan.png" style="width:100%">
+                <div class="text">Yuandytha</div>
+            </div>
+
+            <div class="mySlides fade">
+                <div class="numbertext">4 / 4</div>
+                <img src="img/Yulann.jpg" style="width:100%">
+                <div class="text">Yulan</div>
             </div>
         </div>
         <br>
@@ -154,14 +160,14 @@
         <div class="members">
             <a href="yulan.php">
                 <div class="team-member">
-                    <img class="profileImg" src="img/natan.jpg">
+                    <img class="profileImg" src="img/Yulann.jpg">
                     <h4>Yulan</h4>
                     <p>1203220022</p>
                 </div>
             </a>
             <a href="yuandytha.php">
                 <div class="team-member">
-                    <img class="profileImg" src="img/natan.jpg">
+                    <img class="profileImg" src="img/yuan.png">
                     <h4>Yuandytha</h4>
                     <p>1203220120</p>
                 </div>

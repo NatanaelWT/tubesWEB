@@ -9,6 +9,27 @@
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            text-decoration: none;
+            border: none;
+            outline: none;
+            scroll-behavior: smooth;
+            font-family: "Poppins", sans-serif;
+        }
+
+        html {
+            font-size: 60%;
+            overflow-x: hidden;
+        }
+
+        body {
+            background: var(--bg-color);
+            color: var(--white-color);
+        }
     </style>
 </head>
 
@@ -21,15 +42,15 @@
         <nav class="navbar">
             <a href="#home" class="active">Home</a>
             <a href="#education">Education</a>
-            <a href="#services">Ability</a>
+            <a href="#abilities">Ability</a>
             <a href="#contact">Contact</a>
         </nav>
     </header>
 
     <section class="home" id="home">
         <div class="home-content">
-            <h1>Hi, i'm <span>Tsalits</span></h1>
-            <h3>I'm a <span>Student at Telkom Unisersity Surabaya</span></h3>
+            <h1 style="font-size: 7rem; font-weight: 700; margin-top: 1.5rem;  line-height: 1;">Hi, i'm <span>Tsalits</span></h1>
+            <h3 style="font-size: 3.5rem; margin-bottom: 2rem;  margin-top: 1rem;">I'm a <span>Student </span>at Telkom University Surabaya</h3>
             <p>Now, I am an active 4th semester student majoring in Informatics. I am the 3rd child of 4 siblings and I was the only one who was born in Central Sulawesi, to be precise on September 6 2003. Currently, I participate in several organizations starting from internal campus organizations, namely BEM, off-campus organizations, namely NOVO Club, and internal campus communities. namely Love to Share.</p>
 
             <div class="social-icons">
@@ -57,69 +78,69 @@
         </div>
     </section>
     <section class="education" id="education">
-        <h2 class="heading">Education</h2>
+        <h2 class="heading" style="margin-bottom: 5rem;">Education</h2>
 
-        <div class="timeline-items">
-            <div class="timeline-item">
-                <div class="timeline-dot"></div>
-                <div class="timeline-date">2010</div>
-                <div class="timeline-content">
-                    <h3>Elementary school</h3>
+        <div class="education-items">
+            <div class="education-item">
+                <div class="education-dot"></div>
+                <div class="education-date">2010</div>
+                <div class="education-content">
+                    <h3 style="color: black; font-size: 20px; font-weight: 600; margin: 0 0 10px;">Elementary school</h3>
                     <p>MIN 1 Beringin Jaya, Banggai, Sulawesi Tengah</p>
                 </div>
             </div>
-            <div class="timeline-item">
-                <div class="timeline-dot"></div>
-                <div class="timeline-date">2016</div>
-                <div class="timeline-content">
-                    <h3>Junior high school</h3>
+            <div class="education-item">
+                <div class="education-dot"></div>
+                <div class="education-date">2016</div>
+                <div class="education-content">
+                    <h3 style="color: black; font-size: 20px; font-weight: 600; margin: 0 0 10px;">Junior high school</h3>
                     <p>MTS Al-Falah, Kabupaten Limboto, Gorontalo. </p>
                 </div>
             </div>
-            <div class="timeline-item">
-                <div class="timeline-dot"></div>
-                <div class="timeline-date">2019</div>
-                <div class="timeline-content">
-                    <h3>Senior High School</h3>
+            <div class="education-item">
+                <div class="education-dot"></div>
+                <div class="education-date">2019</div>
+                <div class="education-content">
+                    <h3 style="color: black; font-size: 20px; font-weight: 600; margin: 0 0 10px;">Senior High School</h3>
                     <p>MAN 1 Kota Gorontalo, Molosipat U, Gorontalo. </p>
                 </div>
             </div>
-            <div class="timeline-item">
-                <div class="timeline-dot"></div>
-                <div class="timeline-date">2022</div>
-                <div class="timeline-content">
-                    <h3>University</h3>
+            <div class="education-item">
+                <div class="education-dot"></div>
+                <div class="education-date">2022</div>
+                <div class="education-content">
+                    <h3 style="color: black; font-size: 20px; font-weight: 600; margin: 0 0 10px;">University</h3>
                     <p>Telkom University Surabaya, Ketintang, Surabaya. </p>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="services" id="services">
-        <h2 class="heading">Ability</h2>
+    <section class="abilities" id="abilities">
+        <h2 class="heading" style="color: black;  margin-bottom: 5rem;">Ability</h2>
 
-        <div class="services-container">
-            <div class="service-box">
-                <div class="service-info">
-                    <h4>Microsoft Office</h4>
+        <div class="abilities-container">
+            <div class="ability-box">
+                <div class="ability-info">
+                    <h4 style="font-size: 3rem; font-weight: 800; line-height: 2;">Microsoft Office</h4>
                     <p>SI have strong skills in using Microsoft Office applications, including Word, Excel, and PowerPoint. I can easily create professional documents, spreadsheets, and presentations.</p>
                 </div>
             </div>
-            <div class="service-box">
-                <div class="service-info">
-                    <h4>UI Design</h4>
+            <div class="ability-box">
+                <div class="ability-info">
+                    <h4 style="font-size: 3rem; font-weight: 800; line-height: 2;">UI Design</h4>
                     <p>I have a good understanding of user interface (UI) design. I am able to create attractive and intuitive layouts for applications and websites, paying attention to factors such as readability, consistency and user experience.</p>
                 </div>
             </div>
-            <div class="service-box">
-                <div class="service-info">
-                    <h4>Frontend Development</h4>
+            <div class="ability-box">
+                <div class="ability-info">
+                    <h4 style="font-size: 3rem; font-weight: 800; line-height: 2;">Frontend Development</h4>
                     <p>I have skills in frontend development, which includes HTML, CSS, and JavaScript. I can create responsive and engaging web pages, with a focus on user-friendly design and cross-browser compatibility.</p>
                 </div>
             </div>
-            <div class="service-box">
-                <div class="service-info">
-                    <h4>Backend Development</h4>
+            <div class="ability-box">
+                <div class="ability-info">
+                    <h4 style="font-size: 3rem; font-weight: 800; line-height: 2;">Backend Development</h4>
                     <p>I have skills in backend development, which involves programming languages such as Python, PHP, or Node.js. I can create and manage databases, handle business logic, and manage server performance for web applications.</p>
                 </div>
             </div>
@@ -127,7 +148,7 @@
     </section>
 
     <section class="contact" id="contact">
-        <h2 class="heading">Contact <span>Me</span></h2>
+        <h2 class="heading" style="color: white; margin-bottom: 3rem;">Contact <span>Me</span></h2>
 
         <form action="proses_form.php" method="post">
             <div class="input-group">

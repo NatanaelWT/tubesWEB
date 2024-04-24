@@ -78,7 +78,8 @@
         </div>
         <div class="video-container" id="video">
             <h2>Video Favorit</h2>
-            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=MPqft_YO3TA" frameborder="0" allowfullscreen></iframe>
+            <!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=MPqft_YO3TA" frameborder="0" allowfullscreen></iframe> -->
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/LAOxuo6pkdo?si=YKLYd_R_THjp71fV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div class="hubungi-saya" id="hubungisaya">
             <h2>Hubungi Saya</h2>

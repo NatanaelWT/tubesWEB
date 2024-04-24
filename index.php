@@ -131,21 +131,27 @@
     <div class="main-container">
         <div class="slideshow-container">
             <div class="mySlides fade">
-                <div class="numbertext">1 / 3</div>
+                <div class="numbertext">1 / 4</div>
                 <img src="img/natan.jpg" style="width:100%">
-                <div class="text">Caption Text</div>
+                <div class="text">Natanael</div>
             </div>
 
             <div class="mySlides fade">
-                <div class="numbertext">2 / 3</div>
+                <div class="numbertext">2 / 4</div>
                 <img src="img/tsalits.png" style="width:100%">
-                <div class="text">Caption Two</div>
+                <div class="text">Tsalits</div>
             </div>
 
             <div class="mySlides fade">
-                <div class="numbertext">3 / 3</div>
-                <img src="img/3.jpg" style="width:100%">
-                <div class="text">Caption Three</div>
+                <div class="numbertext">3 / 4</div>
+                <img src="img/yuan.png" style="width:100%">
+                <div class="text">Yuandytha</div>
+            </div>
+
+            <div class="mySlides fade">
+                <div class="numbertext">4 / 4</div>
+                <img src="img/Yulann.jpg" style="width:100%">
+                <div class="text">Yulan</div>
             </div>
         </div>
         <br>

@@ -154,7 +154,7 @@
         <div class="members">
             <a href="yulan.php">
                 <div class="team-member">
-                    <img class="profileImg" src="img/yulann.jpg">
+                    <img class="profileImg" src="img/Yulann.jpg">
                     <h4>Yulan</h4>
                     <p>1203220022</p>
                 </div>

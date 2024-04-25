@@ -72,7 +72,7 @@ include "inc/koneksi.php";
 							<a class="dropdown-toggle">
 								<span>
 									<b>
-										Sistem Informasi Perpustakaan Berbasis Web V 1.0
+										Perpustakaan Berbasis Web V 1.0
 									</b>
 								</span>
 							</a>

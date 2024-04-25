@@ -184,7 +184,7 @@
 		<!-- Form Kontak -->
 		<section id="form-kontak" class="form-kontak">
 			<div class="container">
-				<form action="submit_form.php" method="POST">
+				<form action="" method="POST">
 					<label for="name">Nama:</label>
 					<input type="text" id="name" name="name" required>
 					<label for="email">Email:</label>

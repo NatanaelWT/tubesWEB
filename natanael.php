@@ -121,21 +121,27 @@
             <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
                 <img src="img/sertifPkm.jpg" alt="">
                 <h1 class="text-xl font-bold text-center">Experience 1</h1>
-                <h1>Telkom University Surabaya adalah tempat di mana saya menempuh pendidikan Sarjana Sains di Bidang Informatika. Di sini, saya mempelajari dunia ilmu komputer, rekayasa perangkat lunak, dan teknologi informasi secara mendalam. Universitas ini menyediakan kurikulum yang kuat dan lingkungan akademik yang dinamis, mempersiapkan saya dengan pengetahuan dan keterampilan yang diperlukan untuk karier di bidang ini.</h1>
+                <h1>Sertifikat ini diberikan oleh Direktorat Pembelajaran dan Kemahasiswaan, Direktorat Jenderal Pendidikan Tinggi, Riset, dan Teknologi, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia. Nomor sertifikat adalah 7308/E2/DT.01.00/2023.
+
+Sertifikat ini diberikan kepada five individu, yaitu Natanael Wijaya Tiono, Dharma Wiguna Limmarga, Yoga Maulana, Irfan Yasin, dan Muhammad Hafizh Alfajri sebagai pemenang pendanaan bidang PKMKI (Program Kreativitas Mahasiswa Keahlian Ilmu Komputer) tahun 2023. Judul proyek yang mereka ajukan adalah "Media Pembelajaran Astronomi Berbasis VR untuk Anak Sekolah Dasar".
+
+Sertifikat ini ditandatangani oleh Direktur Pembelajaran dan Kemahasiswaan, Sri Suning Kusumawardani, pada tanggal 15 November 2023. Dengan mendapatkan sertifikat ini, pemenang diharapkan dapat melanjutkan dan mengembangkan ide proyeknya untuk memanfaatkan teknologi virtual reality (VR) dalam pendidikan astronomy untuk siswa SD.</h1>
             </div>
             <div class="lg:hidden"></div>
             <div class="lg:hidden"></div>
             <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
                 <img src="img/sertifPkkmb.jpg" alt="">
                 <h1 class="text-xl font-bold text-center">Experience 2</h1>
-                <h1>Saya mengkhususkan diri dalam Rekayasa Perangkat Lunak, mempelajari dasar-dasar pemrograman, metodologi pengembangan perangkat lunak, dan arsitektur sistem. Pengalaman pendidikan ini membentuk dasar perjalanan saya dalam dunia rekayasa perangkat lunak, membekali saya dengan keterampilan praktis dan pemahaman teoritis yang penting untuk membangun solusi perangkat lunak inovatif.</h1>
+                <h1>Sertifikat ini diberikan oleh Institut Teknologi Telkom Surabaya (IT Telkom Surabaya) kepada Natanael Wijaya Tiono sebagai Anggota Kafas dalam acara Pengenalan Kehidupan Kampus Mahasiswa Baru (PKKMB) DEWANGKARA MAETALA 2023. Acara ini diselenggarakan oleh IT Telkom Surabaya pada tanggal 11-13 September 2023.
+
+Sertifikat ini memiliki nomor 1186/MHS9/WRIII/X/2023 dan ditandatangani oleh Agoes Windarto, S.T., M,M., sebagai Wakil Rektor III IT Telkom Surabaya. Sertifikat ini diberikan sebagai penghargaan atas partisipasi dan sumbangsi Natanael Wijaya Tiono dalam acara PKKMB DEWANGKARA MAETALA 2023.</h1>
             </div>
             <div class="lg:hidden"></div>
             <div class="lg:hidden"></div>
             <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
                 <img src="img/sertifOsjur.jpg" alt="">
                 <h1 class="text-xl font-bold text-center">Experience 3</h1>
-                <h1>SMPN 9 Palangkaraya memberikan saya pondasi akademik yang kokoh, mengembangkan kemampuan berpikir kritis dan pemecahan masalah yang akan sangat berharga dalam pendidikan dan karier profesional saya selanjutnya.</h1>
+                <h1>Sertifikat ini diterbitkan oleh Telkom University, Surabaya, untuk Nomor: 171/MHS9/IF-S1-IF/I. Ini telah diberikan kepada Natanael Wijaya Tiono sebagai Koordinator Materi & Penugasan dalam kegiatan Ospek Jurusan Informatika Telkom University Surabaya, yang diselenggarakan oleh Panitia Ospek HMIF Telkom University Surabaya pada tanggal 11-13 Januari 2024. Satria Putra Buana, Kepala Program Studi Informatika, Telkom University, dan Muhammad Dzulfikar Fauzi, S.Kom., M.Cs. NIP. 20940043, juga tercantum sebagai etua Pelaksana dalam acara EMATICS 2024.</h1>
             </div>
             <div class="lg:hidden"></div>
         </div>

@@ -97,19 +97,19 @@
             <div class="lg:hidden"></div>
             <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
                 <h1 class="text-xl font-bold text-center">Telkom University Surabaya</h1>
-                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
+                <h1>Telkom University Surabaya adalah tempat di mana saya menempuh pendidikan Sarjana Sains di Bidang Informatika. Di sini, saya mempelajari dunia ilmu komputer, rekayasa perangkat lunak, dan teknologi informasi secara mendalam. Universitas ini menyediakan kurikulum yang kuat dan lingkungan akademik yang dinamis, mempersiapkan saya dengan pengetahuan dan keterampilan yang diperlukan untuk karier di bidang ini.</h1>
             </div>
             <div class="lg:hidden"></div>
             <div class="lg:hidden"></div>
             <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
                 <h1 class="text-xl font-bold text-center">SMKN 1 Palangkaraya</h1>
-                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
+                <h1>Saya mengkhususkan diri dalam Rekayasa Perangkat Lunak, mempelajari dasar-dasar pemrograman, metodologi pengembangan perangkat lunak, dan arsitektur sistem. Pengalaman pendidikan ini membentuk dasar perjalanan saya dalam dunia rekayasa perangkat lunak, membekali saya dengan keterampilan praktis dan pemahaman teoritis yang penting untuk membangun solusi perangkat lunak inovatif.</h1>
             </div>
             <div class="lg:hidden"></div>
             <div class="lg:hidden"></div>
             <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
                 <h1 class="text-xl font-bold text-center">SMPN 9 Palangkaraya</h1>
-                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
+                <h1>SMPN 9 Palangkaraya memberikan saya pondasi akademik yang kokoh, mengembangkan kemampuan berpikir kritis dan pemecahan masalah yang akan sangat berharga dalam pendidikan dan karier profesional saya selanjutnya.</h1>
             </div>
             <div class="lg:hidden"></div>
         </div>
@@ -119,23 +119,23 @@
             </div>
             <div class="lg:hidden"></div>
             <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
-                <img src="img/Natan.jpg" alt="">
+                <img src="img/sertifPkm.jpg" alt="">
                 <h1 class="text-xl font-bold text-center">Experience 1</h1>
-                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
+                <h1>Telkom University Surabaya adalah tempat di mana saya menempuh pendidikan Sarjana Sains di Bidang Informatika. Di sini, saya mempelajari dunia ilmu komputer, rekayasa perangkat lunak, dan teknologi informasi secara mendalam. Universitas ini menyediakan kurikulum yang kuat dan lingkungan akademik yang dinamis, mempersiapkan saya dengan pengetahuan dan keterampilan yang diperlukan untuk karier di bidang ini.</h1>
             </div>
             <div class="lg:hidden"></div>
             <div class="lg:hidden"></div>
             <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
-                <img src="img/Natan.jpg" alt="">
+                <img src="img/sertifPkkmb.jpg" alt="">
                 <h1 class="text-xl font-bold text-center">Experience 2</h1>
-                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
+                <h1>Saya mengkhususkan diri dalam Rekayasa Perangkat Lunak, mempelajari dasar-dasar pemrograman, metodologi pengembangan perangkat lunak, dan arsitektur sistem. Pengalaman pendidikan ini membentuk dasar perjalanan saya dalam dunia rekayasa perangkat lunak, membekali saya dengan keterampilan praktis dan pemahaman teoritis yang penting untuk membangun solusi perangkat lunak inovatif.</h1>
             </div>
             <div class="lg:hidden"></div>
             <div class="lg:hidden"></div>
             <div class="col-span-6 md:col-span-4 lg:col-span-2 pt-2">
-                <img src="img/Natan.jpg" alt="">
+                <img src="img/sertifOsjur.jpg" alt="">
                 <h1 class="text-xl font-bold text-center">Experience 3</h1>
-                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id magni, exercitationem, minus eveniet reiciendis ratione fuga voluptatum eligendi similique et cum, aut sit molestias itaque cupiditate libero adipisci voluptates neque.</h1>
+                <h1>SMPN 9 Palangkaraya memberikan saya pondasi akademik yang kokoh, mengembangkan kemampuan berpikir kritis dan pemecahan masalah yang akan sangat berharga dalam pendidikan dan karier profesional saya selanjutnya.</h1>
             </div>
             <div class="lg:hidden"></div>
         </div>

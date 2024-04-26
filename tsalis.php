@@ -83,7 +83,7 @@
         <div class="education-items">
             <div class="education-item">
                 <div class="education-dot"></div>
-                <div class="education-date">2010</div>
+                <div class="education-date">2010 - 2016</div>
                 <div class="education-content">
                     <h3 style="color: black; font-size: 20px; font-weight: 600; margin: 0 0 10px;">Elementary school</h3>
                     <p>MIN 1 Beringin Jaya, Banggai, Sulawesi Tengah</p>
@@ -91,7 +91,7 @@
             </div>
             <div class="education-item">
                 <div class="education-dot"></div>
-                <div class="education-date">2016</div>
+                <div class="education-date">2016 - 2019</div>
                 <div class="education-content">
                     <h3 style="color: black; font-size: 20px; font-weight: 600; margin: 0 0 10px;">Junior high school</h3>
                     <p>MTS Al-Falah, Kabupaten Limboto, Gorontalo. </p>
@@ -99,7 +99,7 @@
             </div>
             <div class="education-item">
                 <div class="education-dot"></div>
-                <div class="education-date">2019</div>
+                <div class="education-date">2019 - 2020</div>
                 <div class="education-content">
                     <h3 style="color: black; font-size: 20px; font-weight: 600; margin: 0 0 10px;">Senior High School</h3>
                     <p>MAN 1 Kota Gorontalo, Molosipat U, Gorontalo. </p>
@@ -107,7 +107,7 @@
             </div>
             <div class="education-item">
                 <div class="education-dot"></div>
-                <div class="education-date">2022</div>
+                <div class="education-date">2022 - Now</div>
                 <div class="education-content">
                     <h3 style="color: black; font-size: 20px; font-weight: 600; margin: 0 0 10px;">University</h3>
                     <p>Telkom University Surabaya, Ketintang, Surabaya. </p>

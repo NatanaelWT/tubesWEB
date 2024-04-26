@@ -315,7 +315,7 @@ span {
     margin: auto;
 }
 
-/*
+
 .contact {
     background-color: var(--second-color);
 }
@@ -385,7 +385,7 @@ span {
     color: black;
     box-shadow: 0 0 25px var(--main-color);
 }
-
+/*
 @media screen and (max-width:1285px){
     html {
         font-size: 55%;

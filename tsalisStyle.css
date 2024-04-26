@@ -34,7 +34,7 @@
 .logo span {
     text-shadow: 0 0 15px var(--main-color);
 }
-/*
+
 .navbar a {
     font-size: 1.8rem;
     color: var(--white-color);
@@ -105,7 +105,7 @@ span {
     line-height: 1.8;
     max-width: 1000px;
 }
-
+/*
 .social-icons a{
     display: inline-flex;
     justify-content: center;

@@ -35,7 +35,7 @@
 
 <body>
     <header class="header" id="header">
-        <a href="#home" class="logo"> Tsalits <span>Fatah</span></a>
+        <a href="#home" class="logo">Tsalits <span>Fatah</span></a>
 
         <i class='bx bx-menu' id="menu-icon"></i>
 

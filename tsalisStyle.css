@@ -34,7 +34,7 @@
 .logo span {
     text-shadow: 0 0 15px var(--main-color);
 }
-
+/*
 .navbar a {
     font-size: 1.8rem;
     color: var(--white-color);
@@ -497,4 +497,4 @@ span {
         margin: 3rem 0.5rem 3rem 0;
     }
     
-}
+} */

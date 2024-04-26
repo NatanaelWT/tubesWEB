@@ -74,7 +74,7 @@
         </div>
 
         <div class="home-img">
-            <img src="me1.png" alt="">
+            <img src="img/me1.png" alt="">
         </div>
     </section>
     <section class="education" id="education">
